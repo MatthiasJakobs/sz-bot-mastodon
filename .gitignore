@@ -1,0 +1,4 @@
+token.secret
+__pycache__
+.venv
+last_post.pickle
